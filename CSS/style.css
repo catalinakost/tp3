@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Roboto:wght@100..900&display=swap');
+
+body {
+    font-family: 'Afacad Flux', 'Roboto', sans-serif; 
+    background-color: #ffffff; 
+    color: #f3d4b0; 
+}
+
+.navbar-toggler span {
+    color: rgb(0, 0, 0); 
+}
+
+.navbar-brand img {
+    width: 32px;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0); 
+}
+
+.navbar a {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 700; 
+    color: #ffffff !important; 
+}
+
+.carousel-control-next-icon {
+    background-image: url(../images/next-arrow.png); 
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../images/prev-arrow.png); 
+}
+
+h1 {
+    font-family: 'Afacad Flux', sans-serif; 
+    font-weight: 900; 
+    color: #000000; 
+}
