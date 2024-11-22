@@ -21,7 +21,7 @@ body {
 .navbar a {
     font-family: 'Roboto', sans-serif; 
     font-weight: 700; 
-    color: #ffffff !important; 
+    color: #ffffff ; 
 }
 
 .carousel-control-next-icon {
